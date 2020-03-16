@@ -1,10 +1,18 @@
 # teste para a Easy
 
-## backend em PHP 7.2
+> por: Marcelo Ratton
+
+### backend em PHP 7.2
 
 o backend foi desenvolvido no servidor embutido no PHP, também funciona em servidor Apache (mas é necessário criar um arquivo .htaccesse não presente neste respositório)
 
-> php -S localhost:8090
+```bash
+    php -S localhost:8090
+```
+
+### teste da API usando o Insomnia
+
+segue também neste repositório o arquivo `Insomnia.json` com os testes realizados para a criação deste teste
 
 ### base de dados
 
