@@ -18,6 +18,8 @@ segue também neste repositório o arquivo `Insomnia.json` com os testes realiza
 
 para o teste foi utilizado o PDO com a base de dados em SQLite 3, para facilitar a replicação do teste em qualquer ambiente
 
+> database-file.db
+
 ### framework PHP
 
 o framework PHP utilizado no projeto foi desenvolvido por mim para estudos e testes como este, ele pode ser encontrado no repositório dele aqui no GitHub
